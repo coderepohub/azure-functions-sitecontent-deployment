@@ -1,0 +1,20 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "myEventHubMessage",
+      "direction": "in",
+      "path": "eventhub-franklin-poc",
+      "connection": "event-namespace-franklin-poc_RootMangerAccess_EVENTHUB",
+      "consumerGroup": "$Default"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "franklindashboardlogs/loggerdetails/{datetime:MM-dd-yyyy}",
+      "connection": "apimhookaf5e_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

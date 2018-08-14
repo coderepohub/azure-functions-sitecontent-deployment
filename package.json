@@ -1,0 +1,17 @@
+{
+  "name": "azure-function-for-alexa-endpoint",
+  "version": "1.0.0",
+  "description": "This is sample azure function for alexa endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azur"
+  ],
+  "author": "Deepak",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-skill-sdk-for-azure-function": "^1.0.8"
+  }
+}

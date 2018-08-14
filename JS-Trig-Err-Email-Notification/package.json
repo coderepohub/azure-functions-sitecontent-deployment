@@ -1,0 +1,17 @@
+{
+  "name": "azure-function-for-Email-Trigger",
+  "version": "1.0.0",
+  "description": "This is sample azure function for Email Trigger Notification Mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moment"
+  ],
+  "author": "Sabari",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}

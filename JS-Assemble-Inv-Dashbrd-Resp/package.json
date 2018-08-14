@@ -1,0 +1,17 @@
+{
+  "name": "azure-function-for-token-endpoint",
+  "version": "1.0.0",
+  "description": "This is sample azure function for token endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azur"
+  ],
+  "author": "aman",
+  "license": "MIT",
+  "dependencies": {
+    "accounting-js": "^1.1.1"
+  }
+}

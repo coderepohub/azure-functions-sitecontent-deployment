@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "OneDrive",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "event-namespace-franklin-poc_RootMangerAccess_EVENTHUB": "Endpoint=sb://event-namespace-franklin-poc.servicebus.windows.net/;SharedAccessKeyName=RootMangerAccess;SharedAccessKey=Yp96Yke7LIcd5abyv+S7e0yJ/isiAAOBy+XUlk5s75I=;EntityPath=eventhub-franklin-poc",
+    "apimhookaf5e_STORAGE": "DefaultEndpointsProtocol=https;AccountName=apimhookaf5e;AccountKey=nxeIy8uWc4CjM21SPtKRyHnyIekUXWaWnC4jvNSVLvE2lDzmd6o6yFyVC2JPF9ZzZR0S2X0l9Wv+FJlT3Bnuhg==",
+    "FUNCTION_APP_EDIT_MODE": "readwrite",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=apimhookaf5e;AccountKey=nxeIy8uWc4CjM21SPtKRyHnyIekUXWaWnC4jvNSVLvE2lDzmd6o6yFyVC2JPF9ZzZR0S2X0l9Wv+FJlT3Bnuhg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_SITE_NAME": "apimhook",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=apimhookaf5e;AccountKey=nxeIy8uWc4CjM21SPtKRyHnyIekUXWaWnC4jvNSVLvE2lDzmd6o6yFyVC2JPF9ZzZR0S2X0l9Wv+FJlT3Bnuhg=="
+  }
+}
